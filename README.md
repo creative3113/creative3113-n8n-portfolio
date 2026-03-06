@@ -2,7 +2,7 @@
 
 Hello! This is my personal collection of custom and adapted n8n workflows, with a strong focus on **AI agents**, **RAG systems**, **Telegram bots**, and business process automation.
 
-I specialize in building intelligent AI-driven automations — from personal assistants and life managers to customer support agents and social media tools. Many of these workflows are inspired by and improved upon large public collections like [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) — customized, tested, and optimized for real use cases.
+I specialize in building intelligent AI-driven automations — from personal assistants and life managers to customer support agents and social media tools. Many of these workflows are inspired by and improved upon large public collections  — customized, tested, and optimized for real use cases.
 
 ## Key Skills & Tools
 - n8n (self-hosted & cloud)
